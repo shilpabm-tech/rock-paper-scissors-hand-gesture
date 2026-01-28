@@ -204,3 +204,9 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+
+# Rock Paper Scissors – Hand Gesture Game
+# Author: Shilpa M
+# Description:
+# This game uses webcam-based hand gesture recognition
+# to play Rock Paper Scissors against the computer.
